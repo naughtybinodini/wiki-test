@@ -3,7 +3,7 @@ title: Documentation
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+This is a demo of the documentation layout.
 
 ## Hello, World!
 
